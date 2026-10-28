@@ -1,1 +1,1 @@
-[](./aikina/passport2.jpeg)
+![](./aikina/passport.jpeg)
